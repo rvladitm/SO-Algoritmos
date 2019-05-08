@@ -262,6 +262,9 @@ void sjf()
             if(i==0)
             {
                 ST[i]=AT[i];
+                WT[i]=ST[i]-AT[i];
+                FT[i]=ST[i]+RT[i];
+                TT[i]=FT[i]-AT[i];
                 
             }
             else
