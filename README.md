@@ -20,4 +20,4 @@ Algoritmos
 1. FCFS
 2. Round Robin
 3. Priority
-4. SFJ
+4. SJF preemptive
